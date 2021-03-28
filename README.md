@@ -1,7 +1,7 @@
 # portfolio
 Página do repositório onde você pode ver um pouco do meu trabalho.
 
-[![author](https://img.shields.io/badge/author-gustavofelicidade-red.svg)](https://www.linkedin.com/in/gustavofelicidade/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-gustavofelicidade-red.svg)](https://www.linkedin.com/in/gustavofelicidade/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
 <p align="center">
   <img src="https://github.com/GustavoSnik/portfolio/blob/main/portfolioDataScience.jpeg?raw=true" >
@@ -12,7 +12,7 @@ Página do repositório onde você pode ver um pouco do meu trabalho.
 
 Developer with general skills in Python, Machine Learning models and Robot Process Automation.
 
-**Background in:** Python, Machine Learning, Data, RPA, UIPATH, Mathematics and earth's sciences.
+**Background in:** Python, Machine Learning, Deep Learning, RPA, UIPATH, Mathematics and earth's sciences.
 
 **Links:**
 * [Blog](http://www.gustavofelicidade.com.br)
@@ -21,15 +21,25 @@ Developer with general skills in Python, Machine Learning models and Robot Proce
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os meus projetos desenvolvidos::
 
-* **Como usar o Histograma para Data Science:** 
-* **Como Implementar Regressão Linear com Python:**
-* **Data Science: Investigando o naufrágio do Titanic:** 
-* **Como Tratar Dados Ausentes com Pandas:** 
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-* **Como criar uma Wordcloud em Python:** 
-* **Como lidar com dados desbalanceados:** 
+**MACHINE LEARNING:**
+
+  * **Modelo KNN para analise de Crédito:** 
+
+**DEEP LEARNING:**
+
+  
+  * **CNN Captcha Recognizer usando TensorFlow:**
+  * **Como Implementar Regressão Linear com Python:**
+  * **Data Science: Investigando o naufrágio do Titanic:** 
+  
+**ROBOT PROCESS AUROMATION:**
+
+  * **Como Tratar Dados Ausentes com Pandas:** 
+  * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
+  * **Como criar uma Wordcloud em Python:** 
+  * **Como lidar com dados desbalanceados:** 
 
 ---
 
