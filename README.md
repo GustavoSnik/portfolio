@@ -25,7 +25,7 @@ Veja os meus projetos desenvolvidos::
 
 **MACHINE LEARNING:**
 
-  * **Modelo KNN para analise de Crédito:** 
+  * **Modelo KNN para analise de Crédito:** https://bit.ly/3g9nQrE
 
 **DEEP LEARNING:**
 
