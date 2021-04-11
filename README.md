@@ -30,7 +30,7 @@ Veja os meus projetos desenvolvidos::
 **DEEP LEARNING:**
 
   
-  * **CNN Captcha Recognizer usando TensorFlow:**
+  * **CNN Captcha Recognizer usando TensorFlow:** https://bit.ly/39YHnY4
   * **Como Implementar Regressão Linear com Python:**
   * **Data Science: Investigando o naufrágio do Titanic:** 
   
