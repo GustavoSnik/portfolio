@@ -33,15 +33,10 @@ Veja os meus projetos desenvolvidos::
 
   
   * **CNN Captcha Recognizer usando TensorFlow:** https://bit.ly/39YHnY4
-  * **Como Implementar Regressão Linear com Python:**
-  * **Data Science: Investigando o naufrágio do Titanic:** 
-  
+
 **ROBOT PROCESS AUTOMATION:**
 
-  * **Como Tratar Dados Ausentes com Pandas:** 
-  * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-  * **Como criar uma Wordcloud em Python:** 
-  * **Como lidar com dados desbalanceados:** 
+
 
 ---
 
