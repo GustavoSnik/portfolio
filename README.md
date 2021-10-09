@@ -38,7 +38,7 @@ Veja os meus projetos desenvolvidos::
   * 
   * **Classificador para Folhas de Plantas do Dataset Plant Village:** 
   * 
-  * **Classificador capaz de diferenciar cães e gatos do Dataset Cats vs Dogs:**
+  * **Classificador capaz de diferenciar cães e gatos do Dataset Cats vs Dogs:** https://bit.ly/3FwpE8I
   * 
   
 **ROBOT PROCESS AUTOMATION:**
