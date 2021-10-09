@@ -10,7 +10,7 @@ Página do repositório onde você pode ver um pouco do meu trabalho.
 </p>
 
 # Gustavo Felicidade
-<sub>*Developer* at Dtouch</sub>
+<sub>*Developer* at SD Labs</sub>
 
 Developer with general skills in Python, Machine Learning models and Robot Process Automation.
 
