@@ -35,8 +35,12 @@ Veja os meus projetos desenvolvidos::
   * **CNN Captcha Recognizer usando TensorFlow:** https://bit.ly/39YHnY4
   * 
   * **Classificador capaz de diferenciar os números do dataset MNIST:** https://bit.ly/2WW2gji
-
-
+  * 
+  * **Classificador para Folhas de Plantas do Dataset Plant Village:** 
+  * 
+  * **Classificador capaz de diferenciar cães e gatos do Dataset Cats vs Dogs:**
+  * 
+  
 **ROBOT PROCESS AUTOMATION:**
 
 
