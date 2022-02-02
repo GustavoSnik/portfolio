@@ -39,11 +39,12 @@ See my developed projects:
   * **CNN Captcha Recognizer usando TensorFlow:** https://bit.ly/39YHnY4
   * 
   * **Classificador capaz de diferenciar os números do dataset MNIST:** https://bit.ly/2WW2gji
-  * 
-  * **Classificador para Folhas de Plantas do Dataset Plant Village:** 
+  *
+  * ** Classifier for Plant Leaves (Dataset Plant Village):** https://bit.ly/3IZQZ3O
+  *    (Classificador para Folhas de Plantas do Dataset Plant Village)
   * 
   * **Classificador capaz de diferenciar cães e gatos do Dataset Cats vs Dogs:** https://bit.ly/3FwpE8I
-
+  *
   * **Handwritten Digits Recognition:** https://bit.ly/3rhLHL3
     (Reconhecimento de dígitos manuscritos)
   
