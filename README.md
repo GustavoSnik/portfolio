@@ -53,7 +53,7 @@ See my developed projects:
 
   * **RPA with Python:**  https://bit.ly/3uqJQpr (Customer from EAU)
   *
-  * ** **
+  * **Python script to send data to influxdb:** https://bit.ly/32RRT30 (Customer from Portugal)
   *
   *
   *
