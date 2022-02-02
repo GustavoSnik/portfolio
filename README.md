@@ -47,7 +47,7 @@ See my developed projects:
   
 **ROBOT PROCESS AUTOMATION:**
 
-**Freelance Jobs for Clients at Upwork:**
+**FREELANCER JOB FOR CLIENTS ON UPWORK:**
 
 ---
 
