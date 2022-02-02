@@ -43,11 +43,19 @@ See my developed projects:
   * **Classificador para Folhas de Plantas do Dataset Plant Village:** 
   * 
   * **Classificador capaz de diferenciar cães e gatos do Dataset Cats vs Dogs:** https://bit.ly/3FwpE8I
-  * 
+
+  * **Handwritten Digits Recognition:** https://bit.ly/3rhLHL3
+    (Reconhecimento de dígitos manuscritos)
   
 **ROBOT PROCESS AUTOMATION:**
 
 **FREELANCER JOB FOR CLIENTS ON UPWORK:**
 
----
+  * **RPA with Python:**  https://bit.ly/3uqJQpr (Customer from EAU)
+  *
+  * ** **
+  *
+  *
+  *
+  
 
