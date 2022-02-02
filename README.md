@@ -1,5 +1,7 @@
 # portfolio
-Página do repositório onde você pode ver um pouco do meu trabalho.
+
+Repository page where you can see some of my work.
+(Página do repositório onde você pode ver um pouco do meu trabalho.)
 
 [![author](https://img.shields.io/badge/author-gustavofelicidade-red.svg)](https://www.linkedin.com/in/gustavofelicidade/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
@@ -22,13 +24,15 @@ Developer with general skills in Python, Machine Learning models and Robot Proce
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja os meus projetos desenvolvidos::
+## Projects:
+See my developed projects:
+(Veja os meus projetos desenvolvidos:)
 
 **MACHINE LEARNING:**
 
-  * **Modelo KNN para analise de Crédito:** https://bit.ly/3g9nQrE
-
+  * **KNN Model for Credit Analysis:** https://bit.ly/3g9nQrE
+      (Modelo KNN para analise de Crédito:)
+      
 **DEEP LEARNING:**
 
   
@@ -43,7 +47,7 @@ Veja os meus projetos desenvolvidos::
   
 **ROBOT PROCESS AUTOMATION:**
 
-
+**Freelance Jobs for Clients at Upwork:**
 
 ---
 
