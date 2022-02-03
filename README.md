@@ -51,7 +51,9 @@ See my developed projects:
 **ROBOT PROCESS AUTOMATION:**
 
 **FREELANCER JOB FOR CLIENTS ON UPWORK:**
-
+  *
+  * **Spss Output Scrapper:**  https://bit.ly/3gjVQR7 (Customer from Norway)
+  *
   * **RPA with Python:**  https://bit.ly/3uqJQpr (Customer from EAU)
   *
   * **Python script to send data to influxdb:** https://bit.ly/32RRT30 (Customer from Portugal)
