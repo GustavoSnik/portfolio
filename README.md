@@ -3,7 +3,7 @@
 Repository page where you can see some of my work.
 (Página do repositório onde você pode ver um pouco do meu trabalho.)
 
-[![author](https://img.shields.io/badge/author-gustavofelicidade-red.svg)](https://www.linkedin.com/in/gustavofelicidade/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
+[![author](https://img.shields.io/badge/author-gustavofelicidade-red.svg)](https://www.linkedin.com/in/gustavofelicidade/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Machine learning](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
 
 
