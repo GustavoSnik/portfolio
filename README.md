@@ -60,6 +60,6 @@ See my developed projects:
   *
   *
 **HACHATHONS:**
- * **Quantum Hackathon 2023:** bit.ly/3ok27n2
+ * **Quantum Hackathon 2023:** https://bit.ly/3ok27n2
   
 
