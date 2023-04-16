@@ -59,7 +59,7 @@ See my developed projects:
   * **Python script to send data to influxdb:** https://bit.ly/32RRT30 (Customer from Portugal)
   *
   *
-**HACHATHONS:**
+**HACkATHONS:**
  * **Quantum Hackathon 2023:** https://bit.ly/3ok27n2
   
 
